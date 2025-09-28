@@ -4,6 +4,7 @@
 
 - Make a python virtual environment
 - Download the requirements
+- Run `python manage.py migrate`
 - Run `python manage.py runserver`
 
 ## API Calling
